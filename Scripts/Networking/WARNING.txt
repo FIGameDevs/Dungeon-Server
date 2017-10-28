@@ -1,0 +1,1 @@
+Generace kódu nefunguje nefunguje pokud je v nastavení Playeru Api Compatibility nastavené na .NET 2.0 Subset. Pokud generace poøád nepùjde, zkuste v nastavení Playeru zmìnit Scripting Runtime na vyšší verzi.
